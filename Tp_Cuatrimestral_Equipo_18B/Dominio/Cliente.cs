@@ -8,5 +8,7 @@ namespace Dominio
 {
     public class Cliente
     {
+        public string NroCliente { get; set; }
+
     }
 }
